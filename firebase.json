@@ -1,7 +1,7 @@
 {
   "hosting": {
-    "target": "angular-sign-up",
-    "public": "dist/angular-sign-up",
+    "target": "slug",
+    "public": "dist/slug",
     "ignore": [
       "**/.*"
     ],
