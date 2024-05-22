@@ -9,7 +9,7 @@ export const environment = {
     projectId: 'slug-6bcf2',
     storageBucket: 'slug-6bcf2.appspot.com',
     messagingSenderId: '751514434890',
-    appId: '1:751514434890:web:494c048877b2fdaaf62e01',
+    appId: '1:751514434890:web:4af4f1c2da8216c9fd15b3',
   },
   production: false,
 };

@@ -1,14 +1,14 @@
 {
   "targets": {
-    "angular-sign-up": {
+    "slug": {
       "hosting": {
-        "angular-sign-up": [
-          "angular-sign-up"
+        "slug": [
+          "slug"
         ]
       }
     }
   },
   "projects": {
-    "default": "angular-sign-up"
+    "default": "slug"
   }
 }
